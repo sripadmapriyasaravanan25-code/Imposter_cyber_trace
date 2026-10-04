@@ -1,0 +1,4 @@
+# pygame-ce is the Pygame Community Edition. It uses `import pygame`
+# and works on Python 3.14 (classic pygame 2.6 has no 3.14 wheel yet).
+# On Python 3.11–3.13 you can instead use: pygame>=2.5.0
+pygame-ce>=2.5.0
